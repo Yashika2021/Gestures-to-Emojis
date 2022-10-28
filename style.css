@@ -1,0 +1,33 @@
+body
+{
+  color: white;
+  background: linear-gradient(#94B49F ,#0F0E0E);
+}
+.heading 
+{
+  font-size : 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed whitesmoke;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: whitesmoke;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
